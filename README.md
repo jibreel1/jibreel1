@@ -1,10 +1,12 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
 
   <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="500"/>
 
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibreel1)](https://github.com/jibreel1/github-readme-stats)
 
 <!--
 **jibreel1/jibreel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
