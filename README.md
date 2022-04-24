@@ -10,15 +10,23 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ---
 
 <div id="header" align="center">
-
   <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="500"/>
-
 </div>
-I'm a passionate learner of the web, who is willing to learn and expand knowledge across all other areas. I love working with frameworks like React and React Native. I also work with WordPress.
 
+### :woman_technologist: About Me :
+
+- :telescope: I'm a passionate learner of the web, who is willing to learn and expand knowledge across all other areas.
+
+- :seedling:  I love working with frameworks like React and React Native.
+
+- :zap: I’m looking to collaborate with developers here on projects which will boost my experience. I also work with WordPress in my spare time.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jibreel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jubril-osunkoya-56b559216/)
+ 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
