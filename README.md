@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="400"/>
+  <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="500"/>
 
 </div>
 
