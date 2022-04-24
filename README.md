@@ -17,6 +17,7 @@
   <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="500"/>
 
 </div>
+I'm a passionate learner of the web, who is willing to learn and expand knowledge across all other areas. I love working with frameworks like React and React Native. I also work with WordPress.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
