@@ -26,7 +26,10 @@
 - :zap: I’m looking to collaborate with developers here on projects which will boost my experience. I also work with WordPress in my spare time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jibreel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jubril-osunkoya-56b559216/)
- 
+
+---
+
+### :hammer_and_wrench: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -38,6 +41,8 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibreel1)](https://github.com/jibreel1/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibreel1)](https://github.com/jibreel1/github-readme-stats)
 
 <!--
 **jibreel1/jibreel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
