@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://www.canva.com/design/DAE-0ns6nOM/9X_frhqm5VUUByofaUP2cA/edit?utm_content=DAE-0ns6nOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100"/>
+  <img src="https://github.com/jibreel1/jibreel1/blob/main/Hi%2C%20I'm%20Jibreel.gif" width="400"/>
 
 </div>
 
