@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jubril-osunkoya-56b559216/">
+  <a href="https://www.linkedin.com/in/jubril-osunkoya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/jubril1005">
@@ -46,7 +46,7 @@
 ---
 
 ### :Connect With Me :
-[![Linkedin Badge](https://img.shields.io/badge/-jibreel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jubril-osunkoya-56b559216/)
+[![Linkedin Badge](https://img.shields.io/badge/-jibreel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jubril-osunkoya/)
 
 
 <!--
